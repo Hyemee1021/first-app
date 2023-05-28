@@ -138,7 +138,7 @@ export const Calculator = () => {
     //storing value of last operator in the state
     setDisplayValue(displayValue + val);
   };
-
+  //making changes for practice
   return (
     <div className="wrapper">
       <div className="calculator">
